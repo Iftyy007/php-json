@@ -1,0 +1,2 @@
+{"userName":"john.doe","password":"1234","firstName":"John","lastName":"Doe","email":"abc@gmail.com","gender":"Male","recoveryEmail":"xyz@gmail.com"}
+{"userName":"hunterxhunter","password":"1234","firstName":"hunter","lastName":"hunter","email":"hunterxhunter@gmail.com","gender":"Male","recoveryEmail":"hunter@gmail.com"}
